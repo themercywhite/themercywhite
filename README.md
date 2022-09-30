@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themercywhite
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL & Python 
-- 💞️ I’m looking to collaborate on Data Analytics projects
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently learning Data Science tools like: Machine Learning
+- 💞️ I love Storytelling with Data by creating 'easy to understand' Data Visualizations
 - 📫 How to reach me: themercyokezie@yahoo.co.uk
 
 <!---
