@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @themercywhite
-- 👀 I’m a Data Analyst
+- 👩🏻‍💻 I’m a Data Analyst
 - 🌱 I’m currently learning Data Science tools like: Machine Learning
 - 💞️ I love Storytelling with Data by creating 'easy to understand' Data Visualizations
 - 📫 How to reach me: themercyokezie@yahoo.co.uk
